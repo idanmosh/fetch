@@ -1,4 +1,4 @@
-import { Networking } from "react-native";
+import Networking from "./Networking";
 import pDefer from "p-defer";
 import Request from "./Request";
 import Response from "./Response";
